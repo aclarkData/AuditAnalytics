@@ -1,3 +1,3 @@
 # Audit Analytics
 
-In this repository are example full audit analytic tests using the python ecosystem. 
+In this repository are example audit analytic tests using the python ecosystem. 
