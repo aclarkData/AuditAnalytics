@@ -166,7 +166,7 @@ olMailItem = 0x0
 obj = win32com.client.Dispatch("Outlook.Application")
 newMail = obj.CreateItem(olMailItem)
 newMail.Subject = "Monthly Analytic Test Results"
-newMail.Body = '''Attached are the results of the monthly Analytics program.
+newMail.Body = '''Attached are the results of the monthly analytics program.
 \nSincerely, \n\nAuditMachine'''
 newMail.To = "brassatc@me.com" # put the email you would like to send to here
 attachment1 = email_path
