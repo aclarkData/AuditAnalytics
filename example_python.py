@@ -168,7 +168,7 @@ newMail = obj.CreateItem(olMailItem)
 newMail.Subject = "Monthly Analytic Test Results"
 newMail.Body = '''Attached are the results of the monthly analytics program.
 \nSincerely, \n\nAuditMachine'''
-newMail.To = "brassatc@me.com" # put the email you would like to send to here
+newMail.To = "YourEmailHere" # put the email you would like to send to here
 attachment1 = email_path
 
 newMail.Attachments.Add(Source=attachment1)
