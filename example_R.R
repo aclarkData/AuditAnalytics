@@ -1,3 +1,5 @@
+#Andrew Clark
+
 #install.packages("pacman")
 
 # install and load the three libraries needed, RODBC, xlsx and sendmailR
