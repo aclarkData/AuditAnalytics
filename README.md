@@ -13,7 +13,7 @@ I recommend installing Anaconda https://www.continuum.io/downloads as it provide
 
 ## R dependencies:
 
-The R program as written installs the three required dependencies, RODBC, xlsx, sendmailR through the use of a library named pacman. So, the only manual installing you need to do is when you turn on R for the first time, run the following code:
+The R program as written installs the three required dependencies: RODBC, xlsx, sendmailR through the use of a library named pacman. So, the only manual installing you need to do is when you turn on R for the first time, run the following code:
 install.packages("pacman")
 The above code installs pacman, which installs and loads the other libraries when you run the program. 
 
