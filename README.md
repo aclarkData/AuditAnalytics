@@ -9,7 +9,7 @@ In this repository are example audit analytic tests using the python ecosystem.
 * pywin32 (for outlook email)
 * pandas
 
-I recommend installing Anaconda https://www.continuum.io/downloads as it provides a complete environment with the dependcies already installed and does not require without a lot of manual installation.
+I recommend installing Anaconda https://www.continuum.io/downloads as it provides a complete environment with the dependencies already installed and does not require a lot of manual installation.
 
 ## R dependencies:
 
@@ -23,6 +23,8 @@ through the use of a library named pacman. So, the only manual installing you ne
 install.packages("pacman")
 
 The above code installs pacman, which installs and loads the other libraries when you run the program. 
+To download R, visit the following link:
+https://cran.r-project.org
 
 For any questions or troubleshooting, contact brassatc@me.com
 
